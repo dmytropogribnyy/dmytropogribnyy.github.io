@@ -47,6 +47,11 @@ main {
 }
 
 
+.center-text {
+    text-align: center;
+}
+
+
 .links {
     list-style: none;
     display: flex;
