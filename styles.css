@@ -37,14 +37,15 @@ header h2 {
 }
 
 main {
-    text-align: center;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
+    text-align: center;
     width: 300px;
     height: 100%;
     margin: 0 auto;
 }
+
 
 .links {
     list-style: none;
