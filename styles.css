@@ -30,14 +30,19 @@ header h2 {
 
 main {
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .links {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: flex; /* display the ul as flex container */
-    flex-direction: column; /* display items one under the other in a column */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .links li {
