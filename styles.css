@@ -45,7 +45,9 @@ main {
 }
 
 .icon {
-    width: auto;
-    height: auto;
+    width: 20px; /* added specific width and height values */
+    height: 20px;
     margin-right: 10px;
 }
+
+
