@@ -1,60 +1,116 @@
 body {
-  background: linear-gradient(to bottom right, #000046, #1cb5e0);
-  color: white;
-  font-family: Arial, sans-serif;
-  text-align: center;
-  padding: 0;
-  margin: 0;
+background: linear-gradient(to bottom, #000046, #1cb5e0);
+color: white;
+font-family: Arial, sans-serif;
+text-align: center;
+padding: 0;
+margin: 0;
 }
 
 header {
-  text-align: center;
-  padding: 20px;
+text-align: center;
+padding: 20px;
 }
 
 header img {
-  width:150px;
-  height:150px;
-  border-radius:50%;
+width:150px;
+height:150px;
+border-radius:50%;
 }
 
 header h1 {
-  font-size: 2.5em;
-  margin-top: 20px;
+font-size: 2.5em;
+margin-top: 20px;
 }
 
 header h2 {
-  font-size: 1.5em;
-  margin-top: 10px;
+font-size: 1.5em;
+margin-top: 10px;
 }
 
 main {
-  padding: 20px;
-}
-
-section {
-  margin: 20px;
+padding: 20px;
 }
 
 a {
-  color: white;
-  text-decoration: none;
+color: white;
+text-decoration: none;
 }
 
-img.clip {
-  width: 12px;
-  height: 12px;
-  margin-right: 5px;
+/* Add class to align icons */
+.icon {
+vertical-align: middle;
+margin-left: 5px;
 }
 
-img.email {
-  width: 15px;
-  height: 15px;
-  margin-right: 5px;
+/* Reduce size of icons */
+.icon {
+width: 25px;
+height: 25px;
 }
 
-img.linkedin {
-  width: 20px;
-  height: 20px;
-  margin-right: 5px;
+/* Add background color to body */
+body {
+background: linear-gradient(to bottom, #000046, #1cb5e0);
+color: white;
+font-family: Arial, sans-serif;
+text-align: center;
+padding: 0;
+margin: 0;
 }
+
+header {
+text-align: center;
+padding: 20px;
+}
+
+header img {
+width:150px;
+height:150px;
+border-radius:50%;
+}
+
+header h1 {
+font-size: 2.5em;
+margin-top: 20px;
+}
+
+header h2 {
+font-size: 1.5em;
+margin-top: 10px;
+}
+
+main {
+padding: 20px;
+}
+
+a {
+color: white;
+text-decoration: none;
+}
+
+/* Add class to align icons */
+.icon {
+vertical-align: middle;
+margin-left: 5px;
+}
+
+/* Reduce size of icons */
+.icon {
+width: 25px;
+height: 25px;
+}
+
+/* Add class to align icons */
+.icon {
+vertical-align: middle;
+margin-left: 5px;
+}
+
+/* Reduce size of icons */
+.icon {
+width: 25px;
+height: 25px;
+}
+
+/*
