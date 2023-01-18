@@ -41,38 +41,15 @@ a {
   text-decoration: none;
 }
 
-/* align icons one under another */
-.icon {
-  display:inline-block;
-  margin-right:10px;
+.links{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
-/* align icons left to the corresponding text */
-.download-cv::before, .open-cv::before {
-  content:'';
-  display:inline-block;
-  vertical-align:middle;
-  margin-right:5px;
+.links img{
+  width:20px;
+  height:20px;
+  margin: 10px;
 }
 
-/* change icon images */
-.download-cv::before {
-  background:url(path/to/paperclip.png);
-  width:16px;
-  height:16px;
-}
-.open-cv::before {
-  background:url(path/to/paperclip.png);
-  width:16px;
-  height:16px;
-}
-.email::before {
-  background:url(path/to/email.png);
-  width:16px;
-  height:16px;
-}
-.linkedin::before {
-  background:url(path/to/linkedin.png);
-  width:16px;
-  height:16px;
-}
