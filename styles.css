@@ -41,11 +41,38 @@ a {
   text-decoration: none;
 }
 
+/* align icons one under another */
 .icon {
-  width: 20px;
-  height: 20px;
-  position: relative;
-  left: -25px;
-  top: 5px;
-  vertical-align: middle;
+  display:inline-block;
+  margin-right:10px;
+}
+
+/* align icons left to the corresponding text */
+.download-cv::before, .open-cv::before {
+  content:'';
+  display:inline-block;
+  vertical-align:middle;
+  margin-right:5px;
+}
+
+/* change icon images */
+.download-cv::before {
+  background:url(path/to/paperclip.png);
+  width:16px;
+  height:16px;
+}
+.open-cv::before {
+  background:url(path/to/paperclip.png);
+  width:16px;
+  height:16px;
+}
+.email::before {
+  background:url(path/to/email.png);
+  width:16px;
+  height:16px;
+}
+.linkedin::before {
+  background:url(path/to/linkedin.png);
+  width:16px;
+  height:16px;
 }
