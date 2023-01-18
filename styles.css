@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(to bottom, #000046, #1cb5e0);
+  background: linear-gradient(to bottom right, #000046, #1cb5e0);
   color: white;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -41,15 +41,20 @@ a {
   text-decoration: none;
 }
 
-.links{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+img.clip {
+  width: 12px;
+  height: 12px;
+  margin-right: 5px;
 }
 
-.links img{
-  width:20px;
-  height:20px;
-  margin: 10px;
+img.email {
+  width: 15px;
+  height: 15px;
+  margin-right: 5px;
 }
 
+img.linkedin {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
