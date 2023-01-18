@@ -44,6 +44,10 @@ main {
     margin: 10px;
 }
 
+.links a{
+    color: #f5f5f5;
+}
+
 .icon {
     width: 20px; /* added specific width and height values */
     height: 20px;
