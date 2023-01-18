@@ -1,18 +1,10 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body {
     background: linear-gradient(to bottom, #000046, #1cb5e0);
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+    padding: 0;
+    margin: 0;
 }
 
 header {
@@ -38,14 +30,25 @@ header h2 {
 
 main {
     text-align: center;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    width: 300px;
-    height: 100%;
-    margin: 0 auto;
 }
 
+.links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.links li {
+    margin: 10px;
+}
+
+.icon {
+    width: 20px; /* added specific width and height values */
+    height: 20px;
+    margin-right: 10px;
+}
 
 .center-text {
    text-align: center;
@@ -57,29 +60,11 @@ main {
    margin: auto;
 }
 
-
-
-.links {
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    margin-top: 20px;
-}
-
-.links li {
-    display: flex;
-    align-items: center;
+.center-text-2 {
+    text-align: left;
     margin-top: 10px;
 }
 
-.icon {
-    width: 20px;
-    height: 20px;
-    margin-right: 10px;
-}
-
-footer {
+footer p {
     text-align: center;
-    margin-top: 20px;
 }
