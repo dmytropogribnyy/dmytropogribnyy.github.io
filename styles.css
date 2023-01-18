@@ -36,17 +36,18 @@ main {
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex; /* display the ul as flex container */
+    flex-direction: column; /* display items one under the other in a column */
 }
 
 .links li {
-    display: flex; /* display the li as flex container */
-    align-items: center; /* align icons and text vertically */
+    display: flex;
+    align-items: center;
     margin: 10px;
 }
 
 .icon {
     width: 20px;
     height: 20px;
-    margin-right: 10px; /* add margin to the right of icon to separate from the text */
+    margin-right: 10px;
 }
-
