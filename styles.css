@@ -1,0 +1,58 @@
+body {
+  background-color: #000046; /* dark blue background color */
+  color: white; /* white text color */
+  font-family: Arial, sans-serif; /* font */
+  text-align: center; /* center align the text */
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+/* Profile Picture */
+header img {
+  width:150px;
+  height:150px;
+  border-radius:50%;
+  border: 5px solid white;
+  margin: 20px 0;
+}
+
+/* Name */
+header h1 {
+  font-size: 2.5em;
+  margin-top: 20px;
+}
+
+/* Position */
+header h2 {
+  font-size: 1.5em;
+  margin-top: 10px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  header h1, header h2 {
+    font-size: 1.5em;
+  }
+  header img {
+    width: 100px;
+    height: 100px;
+  }
+}
