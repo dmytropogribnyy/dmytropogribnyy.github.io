@@ -1,8 +1,8 @@
 body {
-  background-color: #000046; /* dark blue background color */
-  color: white; /* white text color */
-  font-family: Arial, sans-serif; /* font */
-  text-align: center; /* center align the text */
+  background: linear-gradient(to bottom, #000046, #1cb5e0);
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
   padding: 0;
   margin: 0;
 }
@@ -12,22 +12,17 @@ header {
   padding: 20px;
 }
 
-/* Profile Picture */
 header img {
   width:150px;
   height:150px;
   border-radius:50%;
-  border: 5px solid white;
-  margin: 20px 0;
 }
 
-/* Name */
 header h1 {
   font-size: 2.5em;
   margin-top: 20px;
 }
 
-/* Position */
 header h2 {
   font-size: 1.5em;
   margin-top: 10px;
@@ -46,13 +41,8 @@ a {
   text-decoration: none;
 }
 
-/* Responsive Design */
-@media (max-width: 600px) {
-  header h1, header h2 {
-    font-size: 1.5em;
-  }
-  header img {
-    width: 100px;
-    height: 100px;
-  }
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
 }
