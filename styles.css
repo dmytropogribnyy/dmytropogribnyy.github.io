@@ -1,116 +1,55 @@
 body {
-background: linear-gradient(to bottom, #000046, #1cb5e0);
-color: white;
-font-family: Arial, sans-serif;
-text-align: center;
-padding: 0;
-margin: 0;
+    background: linear-gradient(to bottom, #000046, #1cb5e0);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
 }
 
 header {
-text-align: center;
-padding: 20px;
+    text-align: center;
+    padding: 20px;
 }
 
 header img {
-width:150px;
-height:150px;
-border-radius:50%;
+    width:150px;
+    height:150px;
+    border-radius:50%;
 }
 
 header h1 {
-font-size: 2.5em;
-margin-top: 20px;
+    font-size: 2.5em;
+    margin-top: 20px;
 }
 
 header h2 {
-font-size: 1.5em;
-margin-top: 10px;
+    font-size: 1.5em;
+    margin-top: 10px;
 }
 
 main {
-padding: 20px;
+    text-align: left;
+    padding: 20px;
+}
+
+.links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.links li {
+    margin: 10px 0;
 }
 
 a {
-color: white;
-text-decoration: none;
+    color: white;
+    text-decoration: none;
 }
 
-/* Add class to align icons */
 .icon {
-vertical-align: middle;
-margin-left: 5px;
+    vertical-align: middle;
+    width: auto;
+    height: auto;
 }
-
-/* Reduce size of icons */
-.icon {
-width: 25px;
-height: 25px;
-}
-
-/* Add background color to body */
-body {
-background: linear-gradient(to bottom, #000046, #1cb5e0);
-color: white;
-font-family: Arial, sans-serif;
-text-align: center;
-padding: 0;
-margin: 0;
-}
-
-header {
-text-align: center;
-padding: 20px;
-}
-
-header img {
-width:150px;
-height:150px;
-border-radius:50%;
-}
-
-header h1 {
-font-size: 2.5em;
-margin-top: 20px;
-}
-
-header h2 {
-font-size: 1.5em;
-margin-top: 10px;
-}
-
-main {
-padding: 20px;
-}
-
-a {
-color: white;
-text-decoration: none;
-}
-
-/* Add class to align icons */
-.icon {
-vertical-align: middle;
-margin-left: 5px;
-}
-
-/* Reduce size of icons */
-.icon {
-width: 25px;
-height: 25px;
-}
-
-/* Add class to align icons */
-.icon {
-vertical-align: middle;
-margin-left: 5px;
-}
-
-/* Reduce size of icons */
-.icon {
-width: 25px;
-height: 25px;
-}
-
-/*
