@@ -1,10 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background: linear-gradient(to bottom, #000046, #1cb5e0);
     color: white;
     font-family: Arial, sans-serif;
     text-align: center;
-    padding: 0;
-    margin: 0;
 }
 
 header {
@@ -30,22 +34,32 @@ header h2 {
 
 main {
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .links {
     list-style: none;
-    padding: 0;
-    margin: 0;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 20px;
 }
 
 .links li {
-    margin: 10px;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
 }
 
 .icon {
-    width: 20px; /* added specific width and height values */
+    width: 20px;
     height: 20px;
     margin-right: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
 }
