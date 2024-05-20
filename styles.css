@@ -60,6 +60,14 @@ main {
     gap: 20px; /* Add space between items */
 }
 
+.cv-links .links {
+    flex-direction: row; /* Ensure links are on the same line */
+}
+
+.contact-info .links {
+    flex-direction: row; /* Ensure links are on the same line */
+}
+
 .cv-links {
     margin-bottom: 20px;
 }
