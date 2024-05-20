@@ -51,22 +51,25 @@ main {
     align-items: center;
 }
 
-.cv-links, .contact-info {
-    width: 100%;
-    margin: 20px 0;
-}
-
 .cv-links .links, .contact-info .links {
     list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    justify-content: center;
+    gap: 20px; /* Add space between items */
+}
+
+.cv-links {
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    margin-top: 20px;
 }
 
 .links li {
-    margin: 10px 0;
+    margin: 0;
 }
 
 .links a {
