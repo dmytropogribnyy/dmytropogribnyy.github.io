@@ -56,7 +56,7 @@ main {
     margin: 20px 0;
 }
 
-.links {
+.cv-links .links, .contact-info .links {
     list-style: none;
     padding: 0;
     margin: 0;
