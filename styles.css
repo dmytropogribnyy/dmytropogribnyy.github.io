@@ -1,10 +1,12 @@
 body {
-    background: linear-gradient(to bottom, #1a2a6c, #b21f1f, #fdbb2d);
+    background: linear-gradient(135deg, #1e3c72, #2a5298); /* Enhanced gradient with more depth */
     color: white;
     font-family: 'Arial', sans-serif;
     text-align: center;
     padding: 0;
     margin: 0;
+    background-attachment: fixed; /* Ensure the background stays fixed */
+    position: relative; /* Required for the pattern overlay */
 }
 
 header {
@@ -74,4 +76,17 @@ main {
 footer {
     padding: 10px;
     background: rgba(0, 0, 0, 0.5);
+}
+
+/* Pattern Overlay */
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill-opacity="0.05"><polygon points="50,0 100,0 50,100 0,100"/></svg>'); /* Subtle diagonal pattern */
+    opacity: 0.2; /* Adjust opacity for subtlety */
+    z-index: -1; /* Place behind content */
 }
