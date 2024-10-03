@@ -1,6 +1,7 @@
 body {
-    background: url('Blue_background.jpg') no-repeat center center fixed;
-    background-size: cover;
+/*     background: url('Blue_background.jpg') no-repeat center center fixed;
+    background-size: cover; */
+    background: linear-gradient(to bottom, #2c3e50, #34495e); /* Indigo/Navy gradient */
     color: white;
     font-family: 'Arial', sans-serif;
     text-align: center;
