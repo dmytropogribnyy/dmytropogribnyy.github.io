@@ -1,4 +1,5 @@
-Senior Software Test Automation Engineer  
-Playwright (TypeScript) · CI/CD · Enterprise Systems  
-Open to Remote (Worldwide) / Hybrid / Onsite
+Senior QA Automation Engineer
+Playwright (TypeScript) · CI/CD · Scalable Test Architecture
+Building reliable automation, reducing flakiness, and accelerating delivery
+Open to Remote (Worldwide) · Hybrid / Onsite (Bratislava)
 
