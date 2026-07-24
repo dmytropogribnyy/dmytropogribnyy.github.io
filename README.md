@@ -1,23 +1,40 @@
-# Dmytro Pogribnyy
-### Senior SDET · Playwright/TypeScript · UI & API Automation · CI/CD
+# Dmytro Pogribnyy — Professional Portfolio
 
-I design and scale test automation systems that reduce flakiness, increase release confidence, and accelerate delivery in complex, distributed environments.
+**Senior QA Automation Engineer / SDET** specializing in Playwright, TypeScript, API testing, CI/CD, and AI-assisted application quality.
 
-Experience across enterprise SaaS and distributed systems in **financial services, pharmaceuticals, and threat intelligence**.
+This repository contains the source for my professional portfolio website:
 
-## Focus
-- Scalable Playwright automation (UI + API) in TypeScript
-- CI-driven testing and quality gates (GitHub Actions, Azure DevOps, GitLab CI)
-- Selenium-to-Playwright migration and stable, maintainable test architecture
-- Layered failure diagnostics (Playwright traces, API, CloudWatch logs, SQL validation)
-- AI-augmented development workflows (GitHub Copilot, Claude)
-- DORA compliance testing · Distributed systems · Regulated environments
+**[dmytropogribnyy.github.io](https://dmytropogribnyy.github.io/)**
 
-## Availability
-EU-based B2B Contractor (IČO) · Remote (EU) · Bratislava (Hybrid/Onsite) · Available immediately
+## Professional focus
+
+- Playwright + TypeScript automation architecture
+- UI, REST API, integration, and end-to-end testing
+- CI/CD quality gates and actionable failure evidence
+- Selenium/Cypress-to-Playwright migration
+- Automation stabilization and flakiness reduction
+- QA audits and release-readiness reviews
+- AI-assisted application testing with senior human review
+
+## Selected engineering work
+
+- [AI QA Factory](https://github.com/dmytropogribnyy/ai-qa-factory) — guided QA automation workbench with controlled execution and evidence workflows
+- [Northstar Commerce Quality Framework](https://github.com/dmytropogribnyy/playwright-cypress-automation) — commerce release assurance and Cypress-to-Playwright migration
+- [Darrow Code Insight](https://github.com/dmytropogribnyy/darrow-code-insight) — independently developed AI-assisted product and engineering case study
+- [Moxymind Quality Automation](https://github.com/dmytropogribnyy/moxymind-automation) — Playwright UI/API framework with typed contracts and CI evidence
+- [Excel Online Automation](https://github.com/dmytropogribnyy/playwright-excel) — focused iframe, canvas, and clipboard automation case
+
+## Experience and availability
+
+- 8+ years in software quality engineering
+- ISTQB Certified
+- EU-based independent B2B contractor
+- Remote EU engagements
+- Bratislava hybrid or onsite collaboration
 
 ## Links
-- **Website:** [dmytropogribnyy.github.io](https://dmytropogribnyy.github.io/)
-- **CV (PDF):** [Dmytro_Pogribnyy_Senior_SDET_CV.pdf](Dmytro_Pogribnyy_Senior_SDET_CV.pdf)
-- **LinkedIn:** [linkedin.com/in/dmytro-pogribnyy](https://www.linkedin.com/in/dmytro-pogribnyy/)
-- **Email:** dipptrue@gmail.com
+
+- [Portfolio website](https://dmytropogribnyy.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/dmytro-pogribnyy/)
+- [Upwork](https://www.upwork.com/freelancers/~018fd270574ff51973)
+- [Senior SDET CV](Dmytro_Pogribnyy_Senior_SDET_CV.pdf)
