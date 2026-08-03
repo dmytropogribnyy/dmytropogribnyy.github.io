@@ -1,6 +1,6 @@
 # Dmytro Pogribnyy — Professional Portfolio
 
-**Senior QA Automation Engineer / SDET** specializing in Playwright, TypeScript, API testing, CI/CD, and AI-assisted application quality.
+**Senior SDET / Senior Test Automation Engineer** — API/UI/Integration automation, test architecture, CI/CD quality gates, and AI-assisted testing across TypeScript/JavaScript and Python.
 
 This repository contains the source for my professional portfolio website:
 
@@ -8,12 +8,12 @@ This repository contains the source for my professional portfolio website:
 
 ## Professional focus
 
-- Playwright + TypeScript automation architecture
-- UI, REST API, integration, and end-to-end testing
+- Test automation architecture in TypeScript or Python — Playwright, Selenium, pytest
+- UI, REST/GraphQL API, integration, and end-to-end testing
 - CI/CD quality gates and actionable failure evidence
-- Selenium/Cypress-to-Playwright migration
-- Automation stabilization and flakiness reduction
-- QA audits and release-readiness reviews
+- Layered failure diagnostics — Trace Viewer, API, CloudWatch logs, SQL database state
+- Framework modernization, migration, and flakiness reduction
+- QA audits, risk-based testing, and release-readiness reviews
 - AI-assisted application testing with senior human review
 
 ## Selected engineering work
@@ -27,10 +27,11 @@ This repository contains the source for my professional portfolio website:
 ## Experience and availability
 
 - 8+ years in software quality engineering
-- ISTQB Certified
-- EU-based independent B2B contractor
-- Remote EU engagements
+- ISTQB Certified Tester — Foundation Level
+- EU-based independent B2B contractor (IČO, Slovakia)
+- Available immediately · Remote worldwide
 - Bratislava hybrid or onsite collaboration
+- Open to Senior SDET, test automation, and QA automation roles
 
 ## Links
 
