@@ -33,7 +33,7 @@ Alongside my current technology career, I bring prior licensed legal practice, p
 Two focused CVs present the same factual career history from different angles:
 
 - [Senior SDET / Test Automation CV](Dmytro_Pogribnyy_Senior_SDET_CV.pdf) — engineering-first profile for SDET, QA Automation, Test Automation, and quality-engineering roles
-- [Senior Technology / AI / Legal CV](Dmytro_Pogribnyy_Senior_Technology_CV.pdf) — cross-disciplinary profile for AI Assurance, Technology Risk, Legal Tech, and technology-focused legal/regulatory roles
+- [Tech & Legal CV](Dmytro_Pogribnyy_Senior_Technology_CV.pdf) — cross-disciplinary profile for AI Assurance, Technology Risk, Legal Tech, and technology-focused legal/regulatory roles
 
 ## Selected engineering work
 
@@ -64,4 +64,4 @@ Two focused CVs present the same factual career history from different angles:
 - [LinkedIn](https://www.linkedin.com/in/dmytro-pogribnyy/)
 - [Upwork](https://www.upwork.com/freelancers/~018fd270574ff51973)
 - [Senior SDET / Test Automation CV](Dmytro_Pogribnyy_Senior_SDET_CV.pdf)
-- [Senior Technology / AI / Legal CV](Dmytro_Pogribnyy_Senior_Technology_CV.pdf)
+- [Tech & Legal CV](Dmytro_Pogribnyy_Senior_Technology_CV.pdf)
