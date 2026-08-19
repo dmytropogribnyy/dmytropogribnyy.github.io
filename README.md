@@ -1,6 +1,6 @@
 # Dmytro Pogribnyy — Professional Portfolio
 
-**Senior SDET / Senior Test Automation Engineer** — API/UI/Integration automation, test architecture, CI/CD quality gates, and AI-assisted testing across TypeScript/JavaScript and Python.
+**Senior SDET / Senior Test Automation Engineer** — API/UI/Integration automation, test architecture, CI/CD quality gates, AI assurance, and risk-based quality engineering across TypeScript/JavaScript and Python.
 
 This repository contains the source for my professional portfolio website:
 
@@ -14,7 +14,19 @@ This repository contains the source for my professional portfolio website:
 - Layered failure diagnostics — Trace Viewer, API, CloudWatch logs, SQL database state
 - Framework modernization, migration, and flakiness reduction
 - QA audits, risk-based testing, and release-readiness reviews
-- AI-assisted application testing with senior human review
+- AI assurance, LLM evaluation, deterministic validation, and human-in-the-loop controls
+- Regulated and risk-sensitive technology environments
+
+## Complementary legal & regulatory background
+
+Alongside my current technology career, I bring prior licensed legal practice, private-notarial experience, and a long academic career in commercial/economic, business, and corporate law.
+
+- Licensed Attorney / Independent Legal Practice — Ukraine
+- Private Notary — Kharkiv City Notarial District
+- Yaroslav Mudryi National Law University — academic teaching and legal research
+- PhD in Business Law — dissertation on state corporate rights
+- Published research in corporate rights, technology transfer, EU-oriented corporate-law adaptation, cryptocurrency regulation, blockchain, and virtual assets
+- Relevant second-track areas: AI Assurance, Technology Risk, Legal Tech, and technology-focused legal/regulatory work
 
 ## Selected engineering work
 
@@ -31,7 +43,13 @@ This repository contains the source for my professional portfolio website:
 - EU-based independent B2B contractor (IČO, Slovakia)
 - Available immediately · Remote worldwide
 - Bratislava hybrid or onsite collaboration
-- Open to Senior SDET, test automation, and QA automation roles
+- Primary focus: Senior SDET, Test Automation, QA Automation
+- Selectively open to AI Assurance, Technology Risk, Legal Tech, and technology-focused legal/regulatory roles
+
+## Research profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=gXvIgTAAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0003-3147-8683)
 
 ## Links
 
