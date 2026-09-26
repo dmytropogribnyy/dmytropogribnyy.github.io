@@ -2,21 +2,21 @@
 
 [Live portfolio](https://dmytropogribnyy.github.io/)
 
-Legal AI and LLM evaluation alongside Senior SDET / Test Automation engineering. PhD in Business Law, prior legal practice in Ukraine, and 8+ years in software quality.
+Legal AI and LLM evaluation alongside Senior SDET / QA Automation. PhD in Business Law, prior legal practice in Ukraine, and 8+ years in software quality, complemented by recent independent AI/LLM engineering work.
 
 ## Areas of focus
 
 - Legal AI, Legal Engineering, LLM evaluation and AI assurance
-- Senior SDET, QA Automation and test architecture
+- Senior SDET, QA Automation, AI quality engineering and test architecture
 - Playwright, TypeScript/JavaScript, Python, UI/API/integration testing and CI/CD
 - Legal research, technology regulation and human review of AI outputs
 
 ## Current CVs
 
-- [Legal AI & Technology CV](Dmytro_Pogribnyy_Legal_AI_Tech_CV.pdf)
-- [Senior SDET CV](Dmytro_Pogribnyy_Senior_SDET_CV.pdf)
+- [Legal AI & Technology CV](Dmytro_Pogribnyy_Legal_AI_Tech_CV.pdf) — for roles centered on legal expertise, Legal Tech and legal-domain AI evaluation.
+- [Senior SDET & AI Evaluation CV](Dmytro_Pogribnyy_Senior_SDET_CV.pdf) — for SDET, QA Automation, AI Quality and technical LLM evaluation roles.
 
-The previous `Dmytro_Pogribnyy_Senior_Technology_CV.pdf` URL remains available with the current Legal AI document for existing links. The published SDET PDF has its EPAM end date and Slovak proficiency aligned with the current profile.
+The previous `Dmytro_Pogribnyy_Senior_Technology_CV.pdf` URL remains available with the current Legal AI document for existing links. The technical CV combines automation experience with AI/LLM evaluation and validation, with legal expertise as a supporting strength. EPAM is listed through May 2026; both CVs use the same location and language information.
 
 ## Availability
 
