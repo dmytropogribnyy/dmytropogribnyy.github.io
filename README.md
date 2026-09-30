@@ -2,7 +2,7 @@
 
 [Live portfolio](https://dmytropogribnyy.github.io/)
 
-Legal AI and LLM evaluation alongside Senior SDET / QA Automation. PhD in Business Law, prior legal practice in Ukraine, and 8+ years in software quality, complemented by recent independent AI/LLM engineering work.
+Senior SDET / QA Automation alongside Legal AI and LLM evaluation. ISTQB, PhD in Business Law, prior legal practice in Ukraine, and 8+ years in software quality, complemented by recent independent AI/LLM engineering work.
 
 ## Areas of focus
 
@@ -20,7 +20,7 @@ The previous `Dmytro_Pogribnyy_Senior_Technology_CV.pdf` URL remains available w
 
 ## Availability
 
-Bratislava, Slovakia · EU B2B · Available immediately · Remote, or Bratislava hybrid/onsite.
+Bratislava, Slovakia · EU B2B · Available immediately · Remote, or Bratislava hybrid/onsite · Competitive rates from €3,500/month, depending on scope and engagement structure.
 
 ## Website
 
