@@ -16,6 +16,8 @@ Senior SDET / QA Automation alongside Legal AI and LLM evaluation. ISTQB, PhD in
 - [Legal AI & Technology CV](Dmytro_Pogribnyy_Legal_AI_Tech_CV.pdf) — for roles centered on legal expertise, Legal Tech and legal-domain AI evaluation.
 - [Senior SDET & AI Evaluation CV](Dmytro_Pogribnyy_Senior_SDET_CV.pdf) — for SDET, QA Automation, AI Quality and technical LLM evaluation roles.
 
+The main Senior SDET CV was updated on 11 November 2026 with Appium experience and the rate-neutral heading “Competitive EU B2B rates”.
+
 The previous `Dmytro_Pogribnyy_Senior_Technology_CV.pdf` URL remains available with the current Legal AI document for existing links. The technical CV combines automation experience with AI/LLM evaluation and validation, with legal expertise as a supporting strength. EPAM is listed through May 2026; both CVs use the same location and language information.
 
 ## Availability
