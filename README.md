@@ -8,7 +8,7 @@ Senior SDET / QA Automation alongside Legal AI and LLM evaluation. ISTQB, PhD in
 
 - Legal AI, Legal Engineering, LLM evaluation and AI assurance
 - Senior SDET, QA Automation, AI quality engineering and test architecture
-- Playwright, TypeScript/JavaScript, Python, UI/API/integration testing and CI/CD
+- Playwright, Appium, TypeScript/JavaScript, Python, UI/API/integration testing and CI/CD
 - Legal research, technology regulation and human review of AI outputs
 
 ## Current CVs
@@ -20,7 +20,7 @@ The previous `Dmytro_Pogribnyy_Senior_Technology_CV.pdf` URL remains available w
 
 ## Availability
 
-Bratislava, Slovakia · EU B2B · Available immediately · Remote, or Bratislava hybrid/onsite · Competitive rates from €3,500/month, depending on scope and engagement structure.
+Bratislava, Slovakia · EU B2B · Available immediately · Remote, or Bratislava hybrid/onsite · Competitive EU B2B rates.
 
 ## Website
 
